@@ -37,10 +37,11 @@ nav ul li a{
     text-decoration: none;
     font-weight: bold;
     text-transform: capitalize;
+    transition: 1s;
 }
 nav ul li a:hover{
     color: aquamarine;
-    transition: .4s;
+    transform: scale(2.2);
 }
 .btn{
     background-color: aquamarine;
@@ -52,7 +53,7 @@ nav ul li a:hover{
     transition: transform .4s;
 }
 .btn:hover{
-    transform: scale(1.2);
+    transform: scale(2.2);
 
 }
 .content{
