@@ -169,7 +169,7 @@ h4{
     border: 2px solid transparent;
     border-radius: 30px ;
     font-weight: bold;
-    padding: 13px 30px;
+    padding: 10px 30px;
     transition: .4s;
 }
 .button:hover{
